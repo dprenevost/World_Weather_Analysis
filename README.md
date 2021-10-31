@@ -13,7 +13,7 @@
   * display city and hotel locations in 'popup' bubbles for ease of reading
 
 
-### Utilizing API keys and creating maps with detailed information using python was daunting at first, then once I realized this was just another data source with slightly different rules to apply it was not quite as intimidating.  Once I was able to gather and manage the data, it began to make more sense. 
+#### Utilizing API keys and creating maps with detailed information using python was daunting at first, then once I realized this was just another data source with slightly different rules to apply it was not quite as intimidating.  Once I was able to gather and manage the data, it began to make more sense. 
 
-*Dan Prenevost
-*Humble student.
+*Dan Prenevost*
+*Humble student*
